@@ -1,3 +1,5 @@
 jenkins_secret
 *.pub
 dmadmin
+*.tfvars
+*tfstate*
