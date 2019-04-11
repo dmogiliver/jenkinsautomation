@@ -1,0 +1,9 @@
+https://github.com/dmogiliver/awsec2.git
+https://github.com/dmogiliver/awsjenkinsx.git
+https://github.com/dmogiliver/cronjobtest.git
+https://github.com/dmogiliver/devops-essentials-sample-app.git
+https://github.com/dmogiliver/dmhelloworld.git
+https://github.com/dmogiliver/ec2.git
+https://github.com/dmogiliver/Insight_DE_GUS.git
+https://github.com/dmogiliver/jenkinstest.git
+https://github.com/dmogiliver/newaws.git
